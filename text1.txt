@@ -1,2 +1,6 @@
 please don't forget to send me the videos, thanks. 2018 0630 0946
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7ba97efda527b4afe55bf8bd6d519d3be00c2f19
 peter lee
